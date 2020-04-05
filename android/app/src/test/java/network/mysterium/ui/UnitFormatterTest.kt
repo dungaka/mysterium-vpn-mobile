@@ -1,4 +1,4 @@
-package network.mysterium.ui
+package com.rygstudio.ui
 
 import org.junit.Assert.*
 import org.junit.Test

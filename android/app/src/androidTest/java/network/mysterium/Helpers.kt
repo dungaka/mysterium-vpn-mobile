@@ -1,4 +1,4 @@
-package network.mysterium
+package com.rygstudio
 
 import android.view.View
 import android.view.ViewGroup

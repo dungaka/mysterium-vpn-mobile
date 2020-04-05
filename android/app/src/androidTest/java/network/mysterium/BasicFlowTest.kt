@@ -1,4 +1,4 @@
-package network.mysterium
+package com.rygstudio
 
 import androidx.test.espresso.action.ViewActions.*
 import androidx.test.filters.LargeTest

@@ -1,12 +1,12 @@
-package network.mysterium
+package com.rygstudio
 
 import android.widget.FrameLayout
 import androidx.test.espresso.ViewInteraction
 import androidx.test.espresso.action.ViewActions
 import androidx.test.espresso.contrib.RecyclerViewActions
 import androidx.test.espresso.matcher.ViewMatchers
-import network.mysterium.ui.ProposalsListAdapter
-import network.mysterium.vpn.R
+import com.rygstudio.ui.ProposalsListAdapter
+import com.rygstudio.smartvpn.R
 import org.hamcrest.Matchers
 import org.hamcrest.core.IsInstanceOf
 

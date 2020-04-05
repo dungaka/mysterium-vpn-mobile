@@ -6,29 +6,29 @@
 
     <fragment
         android:id="@+id/feedback_fragment"
-        android:name="network.mysterium.ui.FeedbackFragment"
+        android:name="com.rygstudio.ui.FeedbackFragment"
         android:label="fragment_feedback"
         tools:layout="@layout/fragment_feedback" />
     <fragment
         android:id="@+id/main_vpn_fragment"
-        android:name="network.mysterium.ui.MainVpnFragment"
+        android:name="com.rygstudio.ui.MainVpnFragment"
         android:label="fragment_main_vpn"
         tools:layout="@layout/fragment_main_vpn" />
     <fragment
         android:id="@+id/terms_fragment"
-        android:name="network.mysterium.ui.TermsFragment"
+        android:name="com.rygstudio.ui.TermsFragment"
         android:label="fragment_terms"
         tools:layout="@layout/fragment_terms" />
 
     <fragment
         android:id="@+id/proposals_fragment"
-        android:name="network.mysterium.ui.ProposalsFragment"
+        android:name="com.rygstudio.ui.ProposalsFragment"
         android:label="fragment_proposals"
         tools:layout="@layout/fragment_proposals" />
 
     <fragment
         android:id="@+id/account_fragment"
-        android:name="network.mysterium.ui.AccountFragment"
+        android:name="com.rygstudio.ui.AccountFragment"
         android:label="fragment_account"
         tools:layout="@layout/fragment_account" />
 
